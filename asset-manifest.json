@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bootstrap-responsive-website/static/css/main.aecd52bb.css",
+    "main.js": "/Bootstrap-responsive-website/static/js/main.b5d0078a.js",
+    "static/media/image1.webp": "/Bootstrap-responsive-website/static/media/image1.b59b63b66a0648d84cea.webp",
+    "index.html": "/Bootstrap-responsive-website/index.html",
+    "main.aecd52bb.css.map": "/Bootstrap-responsive-website/static/css/main.aecd52bb.css.map",
+    "main.b5d0078a.js.map": "/Bootstrap-responsive-website/static/js/main.b5d0078a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aecd52bb.css",
+    "static/js/main.b5d0078a.js"
+  ]
+}
